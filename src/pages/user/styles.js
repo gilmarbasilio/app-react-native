@@ -79,7 +79,6 @@ export const Author = styled.Text`
 `;
 
 export const Loading = styled.View`
-  font-size: 13px;
-  color: #666;
-  margin-top: 2px;
+  margin-top: 30px;
+  color: #7153c1;
 `;

@@ -58,7 +58,7 @@ export default class User extends Component {
         </Header>
         {loading ? (
           <Loading>
-            <ActivityIndicator color="#7153c1" />
+            <ActivityIndicator />
           </Loading>
         ) : (
           <Stars
