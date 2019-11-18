@@ -26,5 +26,9 @@ module.exports = {
       },
     ],
     'import/prefer-default-export': 'off',
+    'react/state-in-constructor': [1, 'never'],
+    'react/static-property-placement': 'off',
+    'react/sort-comp': 'off',
+    'no-console': 'off',
   },
 };
