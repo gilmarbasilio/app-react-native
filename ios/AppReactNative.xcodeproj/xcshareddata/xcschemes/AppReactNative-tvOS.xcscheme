@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "AppReactNative-tvOS.app"
-               BlueprintName = "AppReactNative-tvOS"
-               ReferencedContainer = "container:AppReactNative.xcodeproj">
+               BuildableName = "profile-github-tvOS.app"
+               BlueprintName = "profile-github-tvOS"
+               ReferencedContainer = "container:profile-github.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AppReactNative-tvOSTests.xctest"
-               BlueprintName = "AppReactNative-tvOSTests"
-               ReferencedContainer = "container:AppReactNative.xcodeproj">
+               BuildableName = "profile-github-tvOSTests.xctest"
+               BlueprintName = "profile-github-tvOSTests"
+               ReferencedContainer = "container:profile-github.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AppReactNative-tvOSTests.xctest"
-               BlueprintName = "AppReactNative-tvOSTests"
-               ReferencedContainer = "container:AppReactNative.xcodeproj">
+               BuildableName = "profile-github-tvOSTests.xctest"
+               BlueprintName = "profile-github-tvOSTests"
+               ReferencedContainer = "container:profile-github.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AppReactNative-tvOS.app"
-            BlueprintName = "AppReactNative-tvOS"
-            ReferencedContainer = "container:AppReactNative.xcodeproj">
+            BuildableName = "profile-github-tvOS.app"
+            BlueprintName = "profile-github-tvOS"
+            ReferencedContainer = "container:profile-github.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AppReactNative-tvOS.app"
-            BlueprintName = "AppReactNative-tvOS"
-            ReferencedContainer = "container:AppReactNative.xcodeproj">
+            BuildableName = "profile-github-tvOS.app"
+            BlueprintName = "profile-github-tvOS"
+            ReferencedContainer = "container:profile-github.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AppReactNative-tvOS.app"
-            BlueprintName = "AppReactNative-tvOS"
-            ReferencedContainer = "container:AppReactNative.xcodeproj">
+            BuildableName = "profile-github-tvOS.app"
+            BlueprintName = "profile-github-tvOS"
+            ReferencedContainer = "container:profile-github.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

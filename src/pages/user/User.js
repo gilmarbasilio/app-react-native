@@ -15,6 +15,7 @@ import {
   Info,
   Title,
   Author,
+  Loading,
 } from './styles';
 
 export default class User extends Component {
@@ -56,7 +57,9 @@ export default class User extends Component {
           <Bio>{user.bio}</Bio>
         </Header>
         {loading ? (
-          <ActivityIndicator color="#7153c1" />
+          <Loading>
+            <ActivityIndicator color="#7153c1" />
+          </Loading>
         ) : (
           <Stars
             data={stars}
